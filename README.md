@@ -1,4 +1,3 @@
-Steps
 
 ## Fetch URL
 
